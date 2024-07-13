@@ -26,7 +26,6 @@ var/
 
 #Ignore docs
 *.docx
-*.csv
 *.pdf
 
 #env
